@@ -1,0 +1,15 @@
+D:\dev\asp\curso-poo\BancoCSharp\bin\Debug\net6.0\BancoCSharp.exe
+D:\dev\asp\curso-poo\BancoCSharp\bin\Debug\net6.0\BancoCSharp.deps.json
+D:\dev\asp\curso-poo\BancoCSharp\bin\Debug\net6.0\BancoCSharp.runtimeconfig.json
+D:\dev\asp\curso-poo\BancoCSharp\bin\Debug\net6.0\BancoCSharp.dll
+D:\dev\asp\curso-poo\BancoCSharp\bin\Debug\net6.0\BancoCSharp.pdb
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\BancoCSharp.csproj.AssemblyReference.cache
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\BancoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\BancoCSharp.AssemblyInfoInputs.cache
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\BancoCSharp.AssemblyInfo.cs
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\BancoCSharp.csproj.CoreCompileInputs.cache
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\BancoCSharp.dll
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\refint\BancoCSharp.dll
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\BancoCSharp.pdb
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\BancoCSharp.genruntimeconfig.cache
+D:\dev\asp\curso-poo\BancoCSharp\obj\Debug\net6.0\ref\BancoCSharp.dll

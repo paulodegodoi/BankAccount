@@ -1,0 +1,13 @@
+1 - Criar conta Corrente
+2 - Criar conta Poupança
+3 - Criar conta Investimento
+4 - Efetuar depósito = OK
+5 - Efetuar saque = OK
+6 - Efetuar transferencida = OK
+7 - Consultar saldo = OK
+8 - Consultar movimentações
+
+9 - Não deve ser possível criar uma conta bancaria sem tipo = OK
+10 - Cada tipo de conta implementa de forma diferente o método ImprimirExtrtato = OK
+
+11 - Visualizar movimentações
